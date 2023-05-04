@@ -65,6 +65,8 @@ router.post('/', (req, res) => {
     });
 });
 
+// Schools code bugged?
+
 // update product
 router.put('/:id', (req, res) => {
   // update product data
